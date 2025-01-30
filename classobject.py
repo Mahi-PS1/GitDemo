@@ -17,3 +17,5 @@ C2.age = 15
 # access attributes
 print(f"{C1.name} is {C1.age} years old")
 print(f"{C2.name} is {C2.age} years old")
+print(f"{C2.name} is {C2.age} years old")
+print(f"{C2.name} is {C2.age} years old")
