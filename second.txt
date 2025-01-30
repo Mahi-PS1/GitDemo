@@ -1,0 +1,21 @@
+# User Information
+UserID,Name,Email,Age,Country
+101,John Doe,john.doe@example.com,29,USA
+102,Jane Smith,jane.smith@example.com,34,UK
+103,Michael Brown,michael.brown@example.com,41,Canada
+104,Linda Johnson,linda.johnson@example.com,25,Australia
+105,James Wilson,james.wilson@example.com,37,India
+ 
+# Product Information
+ProductID,ProductName,Category,Price,Stock
+P001,Laptop,Electronics,800.00,25
+P002,Smartphone,Electronics,600.00,50
+P003,Desk Chair,Furniture,120.00,15
+P004,Book,Stationery,20.00,100
+P005,Headphones,Accessories,50.00,75
+ 
+# Transaction Details
+TransactionID,UserID,ProductID,Quantity,TransactionDate
+T001,101,P001,1,2024-12-10
+T002,102,P003,2,2024-12-10
+T003,103,P
